@@ -1,0 +1,10 @@
+.transparent {
+   background-color: transparent !important;
+}
+
+.bg-div {
+   background: url('./nav-2.jpg');
+   background-size: cover;
+   padding: 800px 0;
+}
+
